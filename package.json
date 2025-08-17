@@ -1,0 +1,35 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "This is Hello React by Aquib Shaikh",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aquibshaikh313/Hello-React.git"
+  },
+  "keywords": [],
+  "author": "Aquib Shaikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aquibshaikh313/Hello-React/issues"
+  },
+  "homepage": "https://github.com/Aquibshaikh313/Hello-React#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist": [
+   
+      "last 2  version"
+      
+
+  ]
+
+}
