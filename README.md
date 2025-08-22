@@ -19,3 +19,21 @@
 - Tree Shaking - removes unused codes for us
 - Different dev and prod bundles
 
+# Food Order 
+/**
+ * Header
+ * -Logo
+ * -Nav Items
+ * Body
+ * -Search
+ * -Restaurant Container
+ * -Restaurant card
+ *   -img
+ *   -name of res,rating,cuisine,deliverytime
+ * Footer
+ *  -copyright
+ *  -links
+ *  -address
+ *  -contact
+ *
+ */
